@@ -1,0 +1,11 @@
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\bin\Debug\zd3_isomatov_h_s.exe.config
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\bin\Debug\zd3_isomatov_h_s.exe
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\bin\Debug\zd3_isomatov_h_s.pdb
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.Properties.Resources.resources
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.ResultForm.resources
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.RoadWorks.resources
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.exe
+C:\Users\305-8\Desktop\ixs\zd3_isomatov_h_s\obj\Debug\zd3_isomatov_h_s.pdb
